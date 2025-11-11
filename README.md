@@ -1,9 +1,9 @@
 # 👋 Olá! Sejam bem vindos ao meu perfil.
 ## Meu nome é Alessandro, mas podem me chamar de Ale.
 
-⚡ Sou morador do RJ
-🤔 Atualmente estou focado em me aperfeiçoar na área de TI
-😄 Estou em busca do primeiro estágio na área
+- ⚡ Sou morador do RJ  
+- 🤔 Atualmente estou focado em me aperfeiçoar na área de TI  
+- 😄 Estou em busca do meu primeiro estágio na área
 
 ## Estou aprendendo
 <div align="center">
