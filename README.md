@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Olá! Sejam bem vindos ao meu perfil.
+## Meu nome é Alessandro, mas podem me chamar de Ale.
 
-<!--
-**Alessandr0D/Alessandr0D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚡ Sou morador do RJ
+🤔 Atualmente estou focado em me aperfeiçoar na área de TI
+😄 Estou em busca do primeiro estágio na área
 
-Here are some ideas to get you started:
+## Estou aprendendo
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/alessandro-diniz-74958a161" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
